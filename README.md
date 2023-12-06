@@ -2,7 +2,7 @@
 
 A Real-time intuitive financial budget tracker.
 
-[Website Live Preview](https://markdownlivepreview.com/).
+[Website dev Preview](http://localhost:5173/).
 [Youtube demo](https://markdownlivepreview.com/).
 [Backend Live API](https://budgetme-api.onrender.com/).
 
