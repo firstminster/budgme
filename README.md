@@ -1,8 +1,41 @@
-# React + Vite
+# Budgify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Real-time intuitive financial budget tracker.
 
-Currently, two official plugins are available:
+## Note
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This web app is in development. Designs and features are not final and are still undergooing constant implementation, testing and changes.
+
+### Architecture
+
+Budgify is a single-page application (SPA) website built with React and Django. Create React App was used to bootstrap the frontend and Django in the backend.
+
+### Frontend
+
+- Languages:
+  - JavaScript
+  - HTML
+  - CSS
+- Main Framework/Libraries:
+  - ReactJS (ReactDOM, ReactRouter)
+  - axios
+  - react-hook-form
+  - redux
+  - jwt-decode
+
+### Backend
+
+- Languages:
+  - Python
+- Main Framework/Libraries:
+  - Django
+  - Django REST framework
+
+### Database
+
+- PostgreSQL
+
+### Deployment
+
+- Netlify for deployment of the frontend
+- Heroku for deployment of the backend
